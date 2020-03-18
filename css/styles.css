@@ -2,3 +2,13 @@ img{
   float: center;
   width: 20vw;
 }
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+  padding: 30px 70px;
+}
+.column {
+  width: 300px;
+  float: left;
+}
